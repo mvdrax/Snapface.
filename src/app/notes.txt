@@ -1,0 +1,51 @@
+
+HELP
+
+Component and OnInit: These are essential Angular core items. Component is a decorator that defines the component,
+while OnInit is an Angular lifecycle hook that allows us to execute logic when the component is initialized
+
+
+CTRL + K + C pour mettre tout en commentaires
+
+Les Observables occupent une place très importante dans le framework d'Angular, et nous permettent de créer des fonctionnalités très avancées et complexes beaucoup plus facilement. Il est donc essentiel de maîtriser la manipulation de ces Observables. Cette manipulation se fait avec les opérateurs.
+
+Il existe deux types principaux d'opérateurs :
+
+les opérateurs bas niveau – ces opérateurs touchent aux émissions directement, généralement pour transformer ou filtrer ces émissions, et sont le sujet de ce chapitre ;
+
+les opérateurs haut niveau – ces opérateurs touchent à l'Observable lui-même
+
+The map() operator allows you to apply a function to each item emitted by an observable, transforming the emitted values. getUsers() {
+  return this.http.get<User[]>('https://api.example.com/users').pipe(
+    map(users => users.map(user => ({ ...user, fullName: `${user.firstName} ${user.lastName}` })))
+  );
+} ->
+In this example, map() is used to create a fullName property for each user.
+
+
+
+You can use map() to only extract specific fields or values that a component might need, which reduces unnecessary data processing : getUserIds() {
+  return this.http.get<User[]>('https://api.example.com/users').pipe(
+    map(users => users.map(user => user.id))
+  );
+}
+
+Un effet secondaire est une fonction qui fait quelque chose avec les émissions d'un Observable sans les modifier
+
+Un Observable de haut niveau souscrit à d'autres Observables.
+
+Imaginez une application qui permet, avec un bouton, de basculer entre deux flux de caméra. Dans cette situation, on commence avec trois Observables :
+un Observable pour chaque caméra et l'Observable des clics sur le bouton.
+
+Pour afficher le flux sélectionné, il faudra composer ces Observables pour créer un Observable haut niveau. On observera les clics du bouton, et selon la sélection,
+on ira souscrire au flux correspondant. 
+Dans ce cas, on appellera le flux de clics l'Observable extérieur, et les flux des caméras les Observables intérieurs.
+Un Observable haut niveau consiste donc en un Observable extérieur qui souscrit à des Observables intérieurs selon ses émissions. Quand
+l'Observable extérieur émet "caméra 1", il souscrit à l'Observable intérieur qui y correspond.
+
+mergeMap  assure la mise en parallèle : l'Observable extérieur peut souscrire aux Observables intérieurs suivants sans attendre que les précédents soient complétés. 
+concatMap  assure la mise en série : il attend que les Observables intérieurs complètent avant de souscrire aux suivants– même si l'Observable extérieur émet plusieurs fois. Les Observables intérieurs seront traités en séquence à la suite.
+exhaustMap  assure le traitement complet d'une souscription avant d'observer une nouvelle émission de l'Observable extérieur. Si d’autres demandes sont faites entre temps, elles ne seront pas prises en compte. 
+switchMap  traite la dernière demande de souscription de l’Observable extérieur et annule toute souscription précédente non-complétée.
+
+OnDestroy  est appelé au moment de la destruction du component. Pour l'utiliser, il faut rajouter  OnDestroy  (importé depuis  @angular/core) aux  implements  du component 

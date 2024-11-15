@@ -1,0 +1,41 @@
+<div class="face-snap-card" [ngClass]="{ snapped: userHasSnapped }">
+
+  <h1>{{ faceSnap.title }}</h1>
+
+  <a routerLink="/facesnaps">BACK</a>
+  <!--Ici, si on n'ajoute pas le  /  au début de la route, le Router essaiera d'accéder à une sous-route,
+    et on obtient une URL de type  localhost:4200/facesnaps/3/facesnaps
+  -->
+
+  <img [src]="faceSnap.imageUrl" [alt]="faceSnap.title">
+  <p>{{ faceSnap.description }}</p>
+  <p>FaceSnap créée le {{ faceSnap.createdAt | date: 'd MMMM yyyy, à HH:mm' }}</p>
+
+
+  <p>
+    <button (click)="onSnap()">{{ snapButtonText }}</button>
+    <span [ngStyle]="{ color: 'rgb(0, ${faceSnap.snaps}, 0)' }"> 👌	{{ faceSnap.snaps }}</span>
+  </p>
+
+  <p> {{ faceSnap.id }}</p>
+  @if (faceSnap.location) {
+  <p>Localisation : {{ faceSnap.location }}</p>
+  } @else {
+  <p>Localisation non spécifiée</p>
+  }
+
+</div>
+
+<!--   le control flow block  @for  fonctionne un peu comme une boucle  for...of  , c'est-à-dire que, dans ce cas de figure,
+  elle va itérer sur le tableau  faceSnaps  et vous exposer l'élément correspondant à chaque itération sous l'alias  faceSnap
+vous associez ensuite l'élément du tableau à la propriété  faceSnap  du component
+le paramètre  track  permet à Angular d'identifier les différents éléments du tableau grâce à une propriété unique —
+  puisque notre modèle FaceSnap n'a pas encore de propriété  id  , on utilisera le  title  comme propriété unique
+  (pour notre exemple simple où l'on sait que c'est le cas !)
+  on pourrait aussi écrire
+
+  @for (faceSnap of faceSnaps; track faceSnap.title) {
+  <app-face-snap [faceSnap]="faceSnap" />
+
+
+}-->

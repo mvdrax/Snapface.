@@ -1,0 +1,421 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Administrateur\\snapface\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Administrateur\\snapface\\src\\app\\new-face-snap\\new-face-snap.component.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\app\\new-face-snap\\new-face-snap.component.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Administrateur\\snapface\\src\\app\\app.module.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\app\\app.module.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Administrateur\\snapface\\src\\app\\models\\face-snap.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\app\\models\\face-snap.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Administrateur\\snapface\\src\\app\\single-face-snap\\single-face-snap-component.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\app\\single-face-snap\\single-face-snap-component.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Administrateur\\snapface\\src\\app\\header\\header.component.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\app\\header\\header.component.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Administrateur\\snapface\\src\\app\\single-face-snap\\single-face-snap-component.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\app\\single-face-snap\\single-face-snap-component.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Administrateur\\snapface\\src\\app\\face-snap\\face-snap.component.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\app\\face-snap\\face-snap.component.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Administrateur\\snapface\\src\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Administrateur\\snapface\\src\\app\\app.component.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\app\\app.component.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Administrateur\\snapface\\src\\app\\face-snap\\face-snap.component.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\app\\face-snap\\face-snap.component.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Administrateur\\snapface\\src\\app\\face-snap-list\\face-snap-list.component.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\app\\face-snap-list\\face-snap-list.component.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Administrateur\\snapface\\src\\app\\face-snap-list\\face-snap-list.component.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\app\\face-snap-list\\face-snap-list.component.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Administrateur\\snapface\\src\\app\\landing-page\\landing-page.component.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\app\\landing-page\\landing-page.component.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Administrateur\\snapface\\src\\app\\single-face-snap\\single-face-snap-component.scss||{181FE41B-5A5D-479F-9F8F-BF665F4EBC2A}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\app\\single-face-snap\\single-face-snap-component.scss||{181FE41B-5A5D-479F-9F8F-BF665F4EBC2A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Administrateur\\snapface\\src\\app\\header\\header.component.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\app\\header\\header.component.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Administrateur\\snapface\\src\\app\\landing-page\\landing-page.component.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\app\\landing-page\\landing-page.component.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Administrateur\\snapface\\src\\app\\landing-page\\landing-page.component.scss||{181FE41B-5A5D-479F-9F8F-BF665F4EBC2A}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\app\\landing-page\\landing-page.component.scss||{181FE41B-5A5D-479F-9F8F-BF665F4EBC2A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Administrateur\\snapface\\src\\app\\app.routes.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\app\\app.routes.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Administrateur\\snapface\\src\\main.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\main.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Administrateur\\snapface\\src\\app\\app.config.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\app\\app.config.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Administrateur\\snapface\\src\\app\\notes.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\app\\notes.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Administrateur\\snapface\\src\\app\\face-snap\\face-snap.component.scss||{181FE41B-5A5D-479F-9F8F-BF665F4EBC2A}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\app\\face-snap\\face-snap.component.scss||{181FE41B-5A5D-479F-9F8F-BF665F4EBC2A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Administrateur\\snapface\\src\\app\\services\\face-snap.services.ts||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\app\\services\\face-snap.services.ts||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Administrateur\\snapface\\src\\app\\models\\snap-type.type.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\app\\models\\snap-type.type.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Administrateur\\snapface\\src\\app\\header\\header.component.scss||{181FE41B-5A5D-479F-9F8F-BF665F4EBC2A}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\app\\header\\header.component.scss||{181FE41B-5A5D-479F-9F8F-BF665F4EBC2A}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "new-face-snap.component.ts",
+              "DocumentMoniker": "C:\\Users\\Administrateur\\snapface\\src\\app\\new-face-snap\\new-face-snap.component.ts",
+              "RelativeDocumentMoniker": "src\\app\\new-face-snap\\new-face-snap.component.ts",
+              "ToolTip": "C:\\Users\\Administrateur\\snapface\\src\\app\\new-face-snap\\new-face-snap.component.ts*",
+              "RelativeToolTip": "src\\app\\new-face-snap\\new-face-snap.component.ts*",
+              "ViewState": "AgIAABgAAAAAAAAAAAAAADwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2024-11-13T10:00:38.785Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "app.module.ts",
+              "DocumentMoniker": "C:\\Users\\Administrateur\\snapface\\src\\app\\app.module.ts",
+              "RelativeDocumentMoniker": "src\\app\\app.module.ts",
+              "ToolTip": "C:\\Users\\Administrateur\\snapface\\src\\app\\app.module.ts",
+              "RelativeToolTip": "src\\app\\app.module.ts",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2024-11-12T15:22:10.327Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "single-face-snap-component.scss",
+              "DocumentMoniker": "C:\\Users\\Administrateur\\snapface\\src\\app\\single-face-snap\\single-face-snap-component.scss",
+              "RelativeDocumentMoniker": "src\\app\\single-face-snap\\single-face-snap-component.scss",
+              "ToolTip": "C:\\Users\\Administrateur\\snapface\\src\\app\\single-face-snap\\single-face-snap-component.scss",
+              "RelativeToolTip": "src\\app\\single-face-snap\\single-face-snap-component.scss",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAgwDMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002663|",
+              "WhenOpened": "2024-11-08T13:48:01.959Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "notes.txt",
+              "DocumentMoniker": "C:\\Users\\Administrateur\\snapface\\src\\app\\notes.txt",
+              "RelativeDocumentMoniker": "src\\app\\notes.txt",
+              "ToolTip": "C:\\Users\\Administrateur\\snapface\\src\\app\\notes.txt",
+              "RelativeToolTip": "src\\app\\notes.txt",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAB4AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2024-11-08T08:38:02.255Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "single-face-snap-component.html",
+              "DocumentMoniker": "C:\\Users\\Administrateur\\snapface\\src\\app\\single-face-snap\\single-face-snap-component.html",
+              "RelativeDocumentMoniker": "src\\app\\single-face-snap\\single-face-snap-component.html",
+              "ToolTip": "C:\\Users\\Administrateur\\snapface\\src\\app\\single-face-snap\\single-face-snap-component.html",
+              "RelativeToolTip": "src\\app\\single-face-snap\\single-face-snap-component.html",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2024-11-07T11:16:07.236Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "single-face-snap-component.ts",
+              "DocumentMoniker": "C:\\Users\\Administrateur\\snapface\\src\\app\\single-face-snap\\single-face-snap-component.ts",
+              "RelativeDocumentMoniker": "src\\app\\single-face-snap\\single-face-snap-component.ts",
+              "ToolTip": "C:\\Users\\Administrateur\\snapface\\src\\app\\single-face-snap\\single-face-snap-component.ts",
+              "RelativeToolTip": "src\\app\\single-face-snap\\single-face-snap-component.ts",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2024-11-07T11:15:31.13Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "landing-page.component.ts",
+              "DocumentMoniker": "C:\\Users\\Administrateur\\snapface\\src\\app\\landing-page\\landing-page.component.ts",
+              "RelativeDocumentMoniker": "src\\app\\landing-page\\landing-page.component.ts",
+              "ToolTip": "C:\\Users\\Administrateur\\snapface\\src\\app\\landing-page\\landing-page.component.ts",
+              "RelativeToolTip": "src\\app\\landing-page\\landing-page.component.ts",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2024-11-07T09:31:25.675Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "landing-page.component.scss",
+              "DocumentMoniker": "C:\\Users\\Administrateur\\snapface\\src\\app\\landing-page\\landing-page.component.scss",
+              "RelativeDocumentMoniker": "src\\app\\landing-page\\landing-page.component.scss",
+              "ToolTip": "C:\\Users\\Administrateur\\snapface\\src\\app\\landing-page\\landing-page.component.scss",
+              "RelativeToolTip": "src\\app\\landing-page\\landing-page.component.scss",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABQAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002663|",
+              "WhenOpened": "2024-11-07T09:24:22.427Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "landing-page.component.html",
+              "DocumentMoniker": "C:\\Users\\Administrateur\\snapface\\src\\app\\landing-page\\landing-page.component.html",
+              "RelativeDocumentMoniker": "src\\app\\landing-page\\landing-page.component.html",
+              "ToolTip": "C:\\Users\\Administrateur\\snapface\\src\\app\\landing-page\\landing-page.component.html",
+              "RelativeToolTip": "src\\app\\landing-page\\landing-page.component.html",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAABBAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2024-11-07T09:20:53.375Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "app.routes.ts",
+              "DocumentMoniker": "C:\\Users\\Administrateur\\snapface\\src\\app\\app.routes.ts",
+              "RelativeDocumentMoniker": "src\\app\\app.routes.ts",
+              "ToolTip": "C:\\Users\\Administrateur\\snapface\\src\\app\\app.routes.ts",
+              "RelativeToolTip": "src\\app\\app.routes.ts",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2024-11-06T14:39:40.976Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "snap-type.type.ts",
+              "DocumentMoniker": "C:\\Users\\Administrateur\\snapface\\src\\app\\models\\snap-type.type.ts",
+              "RelativeDocumentMoniker": "src\\app\\models\\snap-type.type.ts",
+              "ToolTip": "C:\\Users\\Administrateur\\snapface\\src\\app\\models\\snap-type.type.ts",
+              "RelativeToolTip": "src\\app\\models\\snap-type.type.ts",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2024-11-06T13:45:52.269Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "face-snap.services.ts",
+              "DocumentMoniker": "C:\\Users\\Administrateur\\snapface\\src\\app\\services\\face-snap.services.ts",
+              "RelativeDocumentMoniker": "src\\app\\services\\face-snap.services.ts",
+              "ToolTip": "C:\\Users\\Administrateur\\snapface\\src\\app\\services\\face-snap.services.ts",
+              "RelativeToolTip": "src\\app\\services\\face-snap.services.ts",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2024-11-05T15:37:45.405Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "header.component.ts",
+              "DocumentMoniker": "C:\\Users\\Administrateur\\snapface\\src\\app\\header\\header.component.ts",
+              "RelativeDocumentMoniker": "src\\app\\header\\header.component.ts",
+              "ToolTip": "C:\\Users\\Administrateur\\snapface\\src\\app\\header\\header.component.ts",
+              "RelativeToolTip": "src\\app\\header\\header.component.ts",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2024-11-05T15:26:38.908Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "header.component.scss",
+              "DocumentMoniker": "C:\\Users\\Administrateur\\snapface\\src\\app\\header\\header.component.scss",
+              "RelativeDocumentMoniker": "src\\app\\header\\header.component.scss",
+              "ToolTip": "C:\\Users\\Administrateur\\snapface\\src\\app\\header\\header.component.scss",
+              "RelativeToolTip": "src\\app\\header\\header.component.scss",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002663|",
+              "WhenOpened": "2024-11-05T15:25:43.091Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "header.component.html",
+              "DocumentMoniker": "C:\\Users\\Administrateur\\snapface\\src\\app\\header\\header.component.html",
+              "RelativeDocumentMoniker": "src\\app\\header\\header.component.html",
+              "ToolTip": "C:\\Users\\Administrateur\\snapface\\src\\app\\header\\header.component.html",
+              "RelativeToolTip": "src\\app\\header\\header.component.html",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2024-11-05T15:25:17.5Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "face-snap-list.component.html",
+              "DocumentMoniker": "C:\\Users\\Administrateur\\snapface\\src\\app\\face-snap-list\\face-snap-list.component.html",
+              "RelativeDocumentMoniker": "src\\app\\face-snap-list\\face-snap-list.component.html",
+              "ToolTip": "C:\\Users\\Administrateur\\snapface\\src\\app\\face-snap-list\\face-snap-list.component.html",
+              "RelativeToolTip": "src\\app\\face-snap-list\\face-snap-list.component.html",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2024-11-05T15:04:57.896Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "face-snap-list.component.ts",
+              "DocumentMoniker": "C:\\Users\\Administrateur\\snapface\\src\\app\\face-snap-list\\face-snap-list.component.ts",
+              "RelativeDocumentMoniker": "src\\app\\face-snap-list\\face-snap-list.component.ts",
+              "ToolTip": "C:\\Users\\Administrateur\\snapface\\src\\app\\face-snap-list\\face-snap-list.component.ts",
+              "RelativeToolTip": "src\\app\\face-snap-list\\face-snap-list.component.ts",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADUAAABhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2024-11-05T14:54:20.49Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "app.config.ts",
+              "DocumentMoniker": "C:\\Users\\Administrateur\\snapface\\src\\app\\app.config.ts",
+              "RelativeDocumentMoniker": "src\\app\\app.config.ts",
+              "ToolTip": "C:\\Users\\Administrateur\\snapface\\src\\app\\app.config.ts",
+              "RelativeToolTip": "src\\app\\app.config.ts",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2024-11-05T13:41:36.094Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "face-snap.component.scss",
+              "DocumentMoniker": "C:\\Users\\Administrateur\\snapface\\src\\app\\face-snap\\face-snap.component.scss",
+              "RelativeDocumentMoniker": "src\\app\\face-snap\\face-snap.component.scss",
+              "ToolTip": "C:\\Users\\Administrateur\\snapface\\src\\app\\face-snap\\face-snap.component.scss",
+              "RelativeToolTip": "src\\app\\face-snap\\face-snap.component.scss",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002663|",
+              "WhenOpened": "2024-11-05T10:55:32.564Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "face-snap.ts",
+              "DocumentMoniker": "C:\\Users\\Administrateur\\snapface\\src\\app\\models\\face-snap.ts",
+              "RelativeDocumentMoniker": "src\\app\\models\\face-snap.ts",
+              "ToolTip": "C:\\Users\\Administrateur\\snapface\\src\\app\\models\\face-snap.ts",
+              "RelativeToolTip": "src\\app\\models\\face-snap.ts",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAcwA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2024-11-04T15:16:55.899Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "index.html",
+              "DocumentMoniker": "C:\\Users\\Administrateur\\snapface\\src\\index.html",
+              "RelativeDocumentMoniker": "src\\index.html",
+              "ToolTip": "C:\\Users\\Administrateur\\snapface\\src\\index.html",
+              "RelativeToolTip": "src\\index.html",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAABNAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2024-10-31T15:18:55.209Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "main.ts",
+              "DocumentMoniker": "C:\\Users\\Administrateur\\snapface\\src\\main.ts",
+              "RelativeDocumentMoniker": "src\\main.ts",
+              "ToolTip": "C:\\Users\\Administrateur\\snapface\\src\\main.ts",
+              "RelativeToolTip": "src\\main.ts",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2024-11-04T14:20:31.79Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "face-snap.component.html",
+              "DocumentMoniker": "C:\\Users\\Administrateur\\snapface\\src\\app\\face-snap\\face-snap.component.html",
+              "RelativeDocumentMoniker": "src\\app\\face-snap\\face-snap.component.html",
+              "ToolTip": "C:\\Users\\Administrateur\\snapface\\src\\app\\face-snap\\face-snap.component.html",
+              "RelativeToolTip": "src\\app\\face-snap\\face-snap.component.html",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2024-10-31T15:57:28.132Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "face-snap.component.ts",
+              "DocumentMoniker": "C:\\Users\\Administrateur\\snapface\\src\\app\\face-snap\\face-snap.component.ts",
+              "RelativeDocumentMoniker": "src\\app\\face-snap\\face-snap.component.ts",
+              "ToolTip": "C:\\Users\\Administrateur\\snapface\\src\\app\\face-snap\\face-snap.component.ts",
+              "RelativeToolTip": "src\\app\\face-snap\\face-snap.component.ts",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACAAAABBAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2024-10-31T15:28:04.43Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "app.component.html",
+              "DocumentMoniker": "C:\\Users\\Administrateur\\snapface\\src\\app\\app.component.html",
+              "RelativeDocumentMoniker": "src\\app\\app.component.html",
+              "ToolTip": "C:\\Users\\Administrateur\\snapface\\src\\app\\app.component.html",
+              "RelativeToolTip": "src\\app\\app.component.html",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2024-10-31T15:20:18.324Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

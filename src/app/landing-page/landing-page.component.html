@@ -1,0 +1,17 @@
+<div class="landing-block">
+  <form #emailForm="ngForm" (ngSubmit)="onSubmitForm(emailForm)">
+    <label for="emailInput">Inscrivez-vous pour recevoir notre newsletter !</label>
+    <input id="emailInput" [(ngModel)]="email" name="email" placeholder="Votre adresse email" type="email" />
+    <!-- email  est une string  normale. Pour la lier à la valeur de la balise
+  <input>  , on utilise une nouvelle directive – ngModel
+    Le two-way  binding [( lie totalement la valeur de la variable à la valeur du  <input>  . Si on y attribue une valeur depuis le TypeScript elle arrive dans le DOM et inversement-->
+
+    <button type="submit">OK!</button>
+  </form>
+  <img src="https://user.oc-static.com/upload/2021/11/11/16366495596929_snapface.png" alt="Snapface logo">
+  <div class="landing-links">
+    <button (click)="onContinue()">
+      Continuer vers Snapface
+    </button>
+  </div>
+</div>

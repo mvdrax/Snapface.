@@ -1,0 +1,16 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\src",
+    "\\src\\app",
+    "\\src\\app\\header",
+    "\\src\\app\\landing-page",
+    "\\src\\app\\models",
+    "\\src\\app\\new-face-snap",
+    "\\src\\app\\services",
+    "\\src\\app\\single-face-snap",
+    "\\src\\assets"
+  ],
+  "SelectedNode": "\\package.json",
+  "PreviewInSolutionExplorer": false
+}

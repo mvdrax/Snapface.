@@ -1,0 +1,9 @@
+
+
+
+<div class="face-snap-card">
+  <h2>{{ faceSnap.title | uppercase}}</h2>
+  <button (click)="onViewFaceSnap()">VIEW</button>
+</div>
+<!-- @if  la condition selon laquelle l'élément doit être ajouté. Ici, Angular évalue
+  faceSnap.location  comme étant "truthy" quand la propriété existe et qu'elle ne contient pas la chaîne vide -->
